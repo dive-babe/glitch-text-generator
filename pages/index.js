@@ -1,3 +1,4 @@
+`export default function Component() {`
 'use client'
 
 import { useState, useEffect } from 'react'
